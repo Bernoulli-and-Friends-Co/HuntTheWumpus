@@ -1,0 +1,71 @@
+# ======================
+# Unity generated folders
+# ======================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# ======================
+# Visual Studio / Rider / IDE files
+# ======================
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ======================
+# Unity cache / crash
+# ======================
+sysinfo.txt
+crashlytics-build.properties
+
+# ======================
+# OS generated
+# ======================
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ======================
+# Build artifacts
+# ======================
+*.apk
+*.aab
+*.app
+*.exe
+*.ipa
+*.unitypackage
+
+# ======================
+# Unity Addressables & AssetBundles (optional)
+# ======================
+# Uncomment if generated locally
+# [Aa]ssets/AddressableAssetsData/*/*.bin*
+# [Aa]ssets/StreamingAssets/*
+
+# ======================
+# Rider / Gradle / Android
+# ======================
+.gradle/
+local.properties
+.gradle/
+
+# ======================
+# Temporary files
+# ======================
+*.tmp
+*.log
